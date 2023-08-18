@@ -5,4 +5,5 @@ Tools Used : VSCODE
 
 Technology Used : HTML CSS JS
 
-Let's Grow More Internship Assignment 1
+
+Let's Grow More Internship Task 1
